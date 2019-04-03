@@ -1,0 +1,10 @@
+inherit python-wheel
+
+NAME="python-s3transfer"
+VERSION=0.2.0
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Amazon S3 Transfer manager for Python"
+DESCRIPTION="S3transfer is a Python library for managing Amazon S3 transfers."
+
+ARCH=noarch
